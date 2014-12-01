@@ -34,14 +34,14 @@ Instructions
 Solution Notes
 --------------
 
-*Add solution notes here*
-
+Used Dijkstra's Algorithm
 
 Build Instructions
 ------------------
 
-*Add build instructions here*
+Have Server.rb running
 
+Modify run.sh to run one of the map*.bin files
 
 Requirements
 ------------
